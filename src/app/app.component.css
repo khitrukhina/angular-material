@@ -1,0 +1,32 @@
+span[matBadge] {
+    margin: 20px;
+}
+
+.badges {
+    margin: 20px;
+}
+
+.navbar {
+    justify-content: space-between;
+}
+
+.navbar span {
+    padding-right: 1rem;
+}
+
+mat-sidenav-container {
+    height: 100%;
+}
+
+mat-sidenav-content, mat-sidenav {
+    padding: 16px;
+}
+
+mat-sidenav {
+    background-color: coral;
+    width: 200px;
+}
+
+mat-grid-tile {
+    background-color: lightblue;
+}
